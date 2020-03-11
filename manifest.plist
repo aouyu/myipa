@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://code.aliyun.com/fangxiaotian/myipa/blob/45866f43ca706b7895a021fdbb6654b421b85769/YDHS_UMP.ipa</string>
+                    <string>https://raw.githubusercontent.com/aouyu/myipa/master/YDHS_UMP.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/aouyu/myipa/master/57.png</string>
+                    <string>https://raw.githubusercontent.com/aouyu/myipa/master/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://github.com/aouyu/myipa/master/512.png</string>
+                    <string>https://raw.githubusercontent.com/aouyu/myipa/master/512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
